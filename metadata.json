@@ -1,0 +1,6 @@
+{
+  "name": "Soko Sauti - Voice AI Market Assistant",
+  "description": "Voice-first AI market assistant for Ugandan small traders and farmers in Luganda and English, tracking sales, stock, amabanja debts, fair prices, and mobile money reminders.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
